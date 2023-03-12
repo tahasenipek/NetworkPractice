@@ -5,7 +5,8 @@
 <body>
   <div>
   
-  <title> Enter the index.html </title>
-  
+     Enter the index.html
+     Learn How can make network, IP and Broadcast addresses
+     Fill the required spaces.
   </div>
  </body>
