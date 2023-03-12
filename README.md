@@ -5,7 +5,7 @@
 <body>
   <div>
   
-  <title> Enter the index.html <title>
+  <title> Enter the index.html </title>
   
   </div>
  </body>
