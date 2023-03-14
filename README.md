@@ -4,8 +4,8 @@
 
 <body>
   <div>
-     Learn How can make network, IP and Broadcast addresses.
-     Enter the index.html
-     Fill the required spaces.
+     Learn How can make network, IP and Broadcast addresses. <br>
+     Enter the index.html <br>
+     Fill the required spaces. <br>
   </div>
  </body>
