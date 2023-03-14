@@ -1,12 +1,11 @@
 # NetworkPractice
 
-<h3> This project goal is network IP, Broadcast address</h3>
+<h3> The goal of this project is to learn how to calculate ip and broadcast addresses </h3>
 
 <body>
   <div>
-  
+     Learn How can make network, IP and Broadcast addresses.
      Enter the index.html
-     Learn How can make network, IP and Broadcast addresses
      Fill the required spaces.
   </div>
  </body>
