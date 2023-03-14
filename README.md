@@ -1,4 +1,4 @@
-# NetworkPractice
+# NetworkPractice - Ecole 42 project
 
 <h3> The goal of this project is to learn how to calculate ip and broadcast addresses </h3>
 
